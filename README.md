@@ -2,9 +2,9 @@
 
 ## プロフィール
 
-性別：男
-出身：大阪府
-血液型：O型
+性別：男  
+出身：大阪府  
+血液型：O型  
 
 - 👋 Hi, I’m @MadakaHeri
 - 👀 I’m interested in ...
