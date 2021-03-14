@@ -4,6 +4,10 @@
 🆕 2021.03.15 - 現在、大阪で新たな職場を探しています！
 ```
 
+YouTube（準備中）: https://www.youtube.com/channel/UCdYdqeVNy9D1ZDWrE6Z6uMA  
+Twitter: https://twitter.com/MadakaHeri  
+マシュマロ: https://marshmallow-qa.com/madakaheri  
+
 ## 📣 ごあいさつ
 
 東京のとあるITスタートアップでフルスタックエンジニア兼開発リーダーをやっています！  
