@@ -4,6 +4,7 @@
 🆕 2021.03.15 - 現在、大阪で新たな職場を探しています！
 ```
 
+Qiita（準備中）: https://qiita.com/MadakaHeri
 YouTube（準備中）: https://www.youtube.com/channel/UCdYdqeVNy9D1ZDWrE6Z6uMA  
 Twitter: https://twitter.com/MadakaHeri  
 マシュマロ: https://marshmallow-qa.com/madakaheri  
