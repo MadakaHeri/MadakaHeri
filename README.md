@@ -11,7 +11,7 @@ Twitter: https://twitter.com/MadakaHeri
 ## 📣 ごあいさつ
 
 東京のとあるITスタートアップでフルスタックエンジニア兼開発リーダーをやっています！  
-Vue.jsでのアプリ開発からMySQLとLaravelまたはAWSでサーバーレスでバックエンド設計・開発をしています。  
+主にレビューや価格分析の分野でVue.jsでのアプリ開発からMySQLとLaravelまたはAWSでサーバーレスでバックエンド設計・開発をしています。  
 最近はAWS Amplify（Firebase的なもの）で組むのが簡単で工数少なく開発出来て楽ですね。  
 Amplify未対応の部分はSAMで開発します。  
 
